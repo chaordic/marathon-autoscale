@@ -3,4 +3,4 @@ A simple piece of software that monitors applications running over Marathon (htt
 
 ## Usage
 
-python autoscale.py <MARATHON_HOST> <CHECK_INTERVAL_IN_SECS>
+  python autoscale.py <MARATHON_HOST> <CHECK_INTERVAL_IN_SECS>
